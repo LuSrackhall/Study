@@ -1,0 +1,3 @@
+[submodule "submodules/golang/memery"]
+	path = submodules/golang/memery
+	url = ../memory/
